@@ -32,6 +32,5 @@ You have been given a folder with all the sound files you will need to complete 
   - Element: grab your element from the DOM
   - Event: add an event listener to the element
   - Execution: add a function that runs when the event happens. Remember to console log inside the function to make sure your event listener is working!
-# DaftPunk-Music-Box
-# DaftPunk-Music-Box
+
 # SoundBoard-DaftPunk
